@@ -1,7 +1,7 @@
 # Ai_assistent
 Ссылка на проект: @Nafany99_bot 
 
-
+Скиншот1:(https://github.com/hehry40/Ai_assistent/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-03-11%20003657.png?raw=true)
 
 # 🤖 ИИ-администратор для Telegram
 
